@@ -1,4 +1,4 @@
-prinnt 'hi there!'
+print 'hi there!'
 <!--
 **francisoliverlee/francisoliverlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
