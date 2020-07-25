@@ -1,4 +1,4 @@
-## Hi there 👋, Welcome to [demo world](http://demoworld.tech)
+## 👋, Welcome to [demo world](http://demoworld.tech)
 
 
 <!--
