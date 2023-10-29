@@ -1,4 +1,4 @@
-## 🔭, I’m currently working on [RocketMQ in Tencent Cloud]([http://dorisdb.xyz](https://cloud.tencent.com/developer/user/1137178))
+## 🔭, I’m currently working on [RocketMQ in Tencent Cloud](http://dorisdb.xyz](https://cloud.tencent.com/developer/user/1137178)
 
 
 
